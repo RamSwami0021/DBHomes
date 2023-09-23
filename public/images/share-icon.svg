@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="220" height="220" viewBox="0 0 220 220">
+  <defs>
+    <filter id="Ellipse_6" x="0" y="0" width="220" height="220" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.329"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="share-icon" transform="translate(-2023 5628)">
+    <g transform="matrix(1, 0, 0, 1, 2023, -5628)" filter="url(#Ellipse_6)">
+      <circle id="Ellipse_6-2" data-name="Ellipse 6" cx="80" cy="80" r="80" transform="translate(30 30)" fill="#fff"/>
+    </g>
+    <g id="share-icon-2" data-name="share-icon" transform="translate(2085 -5573)">
+      <path id="Path_446" data-name="Path 446" d="M64.128,61.039A14.818,14.818,0,0,0,53.145,65.9L28.691,50.758a14.8,14.8,0,0,0,0-10.771L53.145,24.841a14.85,14.85,0,1,0-2.854-4.6L25.837,35.384a14.853,14.853,0,1,0,0,19.976L50.29,70.506a14.851,14.851,0,1,0,13.838-9.467ZM54.691,14.853a9.437,9.437,0,1,1,9.437,9.437A9.448,9.448,0,0,1,54.691,14.853ZM14.853,54.81a9.437,9.437,0,1,1,9.436-9.437,9.448,9.448,0,0,1-9.436,9.437ZM54.691,75.892a9.437,9.437,0,1,1,9.437,9.437,9.448,9.448,0,0,1-9.437-9.437Zm0,0" transform="translate(9 10)" fill="#bd079b"/>
+    </g>
+  </g>
+</svg>
